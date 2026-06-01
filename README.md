@@ -130,8 +130,8 @@ Eleven visualizations were produced across bar charts, pie charts, histograms, s
 
 ## Academic Context
 
-This project was submitted as the Capstone Project for the Foundations of Data Science course, 2025. It is intended for academic evaluation purposes.
+This project was submitted as the Capstone Project for the Foundations of Data Science course, 2026. It is intended for academic evaluation purposes.
 
 ---
 
-*Foundations of Data Science | Capstone Project 2025*
+*Foundations of Data Science | Capstone Project 2026*
